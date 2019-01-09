@@ -1,0 +1,4 @@
+<resources>
+    <!--App name-->
+    <string name="app_name">Azure SSO(MSAL) Login</string>
+</resources>
